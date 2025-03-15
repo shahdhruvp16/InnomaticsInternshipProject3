@@ -1,24 +1,24 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "title": "Eco-E-Waste",
+      "imageSrc": "projects/Home Page.png",
+      "description": "This project is based on AI. It is used to aware people aboute E-waste and its recycling.",
       "skills": ["React", "Express", "Node"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "title": "MUDRA Connect",
+      "imageSrc": "projects/mudra.png",
+      "description": "This project made to bridge the communication gap for deaf and mute individuals.",
+      "skills": ["React", "Express", "Node", "Python"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "title": "Brew Coffee shop",
+      "imageSrc": "projects/Project (2).png",
+      "description": "This Project is for Coffee shop. It is a responsive website. It is made using Basic Website tools.",
       "skills": ["React", "Express", "Node"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"

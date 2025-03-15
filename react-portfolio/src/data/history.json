@@ -1,27 +1,27 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
+      "role": "Full Stack Web Developer Intern",
+      "organisation": "Innomatics Research Labs",
       "startDate": "Sept, 2022",
       "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
+      "experiences": ["Worked on Responsive Website", "Make crucial Projects"],
+      "imageSrc": "history/Innomatics.png"
     },
     {
       "role": "UI Designer",
-      "organisation": "Mirosoft",
+      "organisation": "Amrit Vidhyalaya",
       "startDate": "Aug, 2021",
       "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "experiences": ["Learn about Web Designing", "Designed the Whole schooling website"],
       "imageSrc": "history/microsoft.png"
     },
     {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
+      "role": "Frontend Developer Intern",
+      "organisation": "Bharat Intern",
       "startDate": "Apr, 2020",
       "endDate": "Jun, 2020",
       "experiences": [
-        "Worked on component library",
+        "Worked on basic website building tools",
         "Helped create UI components"
       ],
       "imageSrc": "history/netflix.png"
